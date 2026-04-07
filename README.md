@@ -17,16 +17,20 @@
 > An end-to-end data analytics project built with Python, Streamlit, and machine learning to explore flight delays, identify patterns, and predict whether a flight is likely to be delayed.
  
 
-<p align="center">
-  <img src="assets/Airline-Analysis (1).png" width="800">
+![Dashboard Screenshot](Assets/Airline-Analysis-(1).png)
+![Dashboard Screenshot](Assets/Airline-Analysis-(2).png)
+![Dashboard Screenshot](ML-Predictor.png)
+
+<p align="center"
+  <img src="Assets/Airline-Analysis-(1).png" width="800">
 </p>
 
 <p align="center">
-  <img src="assets/Airline-Analysis (2).png" width="800">
+  <img src="Assets/Airline-Analysis-(2).png" width="800">
 </p>
 
 <p align="center">
-  <img src="ML-Predictor.png" width="800">
+  <img src="Assets/ML-Predictor.png" width="800">
 </p>
 ---
 
