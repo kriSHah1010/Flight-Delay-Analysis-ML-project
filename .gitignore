@@ -1,0 +1,11 @@
+data/raw/flights_sample_3m.csv
+data/raw/dictionary.html
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.env
+.venv/
+venv/
+data/
+*.zip
+*.csv
